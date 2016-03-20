@@ -6,7 +6,7 @@
   "env": {
     "COMMUNITY_NAME": {
       "description": "Your team name",
-      "value": "YOUR TEAM NAME"
+      "value": "dmvc"
     },
     "SLACK_URL": {
       "description": "Your slack url(ex: socketio.slack.com)",
@@ -14,7 +14,7 @@
     },
     "SLACK_TOKEN": {
       "description": "access token of slack, You can generate it in https://api.slack.com/web#auth",
-      "value": ""
+      "value": "xoxp-27653759015-27646585958-28040064209-c20077df6a"
     },
     "INVITE_TOKEN": {
       "description": "Shared invite token used to get access. Leave blank if you don't want users to have to provide a token.",
