@@ -12,11 +12,7 @@ html
         .header
           h1
             strong #{community}
-<<<<<<< HEAD
           h2 #{__('HEADER', community)}		  
-=======
-          h2 #{__('HEADER', community)}
->>>>>>> parent of c7f61ab... Added redirect
         .content
           .information
             form(method="POST", action="/invite")#join-form.form
@@ -36,8 +32,5 @@ html
         if (tokenRequired && !token.value) {
           evt.preventDefault();
         }
-<<<<<<< HEAD
     	.content
-=======
->>>>>>> parent of c7f61ab... Added redirect
       });
